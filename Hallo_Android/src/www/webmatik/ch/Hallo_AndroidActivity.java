@@ -9,6 +9,6 @@ public class Hallo_AndroidActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        //Santana TEST 19.03
+        //Santana TEST 19.03.2012
     } 
 }
